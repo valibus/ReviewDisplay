@@ -1,0 +1,7 @@
+<config>
+    <modules>
+        <ReviewDisplay>
+            <versions>0.1</versions>
+        </ReviewDisplay>
+    </modules>
+</config>

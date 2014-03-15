@@ -1,0 +1,11 @@
+<config>
+    <modules>
+        <Valibus_ReviewDisplay>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Review />
+            </depends>
+        </Valibus_ReviewDisplay>
+    </modules>
+</config>
